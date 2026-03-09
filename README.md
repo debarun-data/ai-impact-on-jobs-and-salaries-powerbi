@@ -5,7 +5,6 @@ This Power BI dashboard analyzes how artificial intelligence is influencing job 
 
 ## Tools Used
 Power BI
-SQL
 Excel
 
 ## Key Insights
